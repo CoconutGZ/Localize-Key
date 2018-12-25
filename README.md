@@ -96,3 +96,14 @@ Objective-C project. Example：
 
 ```
 
+Usage
+------------------
+swift project. Example：
+``` swift
+	let str = NSLocalizedString(LocalizeKey.home.title.rawValue, comment: "")
+```
+
+Objective-C project. Example：
+``` Objective-C
+	NSString * str = NSLocalizedString(LocalizeKey_home_title, @"");
+```
