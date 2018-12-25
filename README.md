@@ -10,5 +10,5 @@ https://www.jianshu.com/p/087260ea13a0
 
 Function introduction
 -------------------
-- checkout：Powerful synchronization function, export. h file or. swift file from. strings file.
-- insert:
+- **checkout**：Powerful synchronization function, export. h file or. swift file from. strings file.
+- **insert**:
