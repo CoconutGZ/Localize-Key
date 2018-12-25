@@ -15,7 +15,7 @@ Function introduction
 
 Installation
 --------------------
-Download the installation package(`Localize Key.dmg`) in the project and install it on the computer.
+Download the installation package(`**Localize Key.dmg**`) in the project and install it on the computer.
 
 product
 ----------------------
@@ -40,9 +40,9 @@ enum LocalizeKey: String {
 	enum home: String {
 
 	/*#keys-home*/
-			case title = "home_title"
-			//case titleLabel = "home_titleLabel"
-			case wow = "home_wow"
+		case title = "home_title"
+		//case titleLabel = "home_titleLabel"
+		case wow = "home_wow"
 	/*#end-keys-home*/
 
 	/*#end-home*/
@@ -53,9 +53,9 @@ enum LocalizeKey: String {
 	enum my: String {
 
 	/*#keys-my*/
-			case button = "my_button"
-			//case button3 = "my_button3"
-			case titleLabel = "my_titleLabel"
+		case button = "my_button"
+		//case button3 = "my_button3"
+		case titleLabel = "my_titleLabel"
 	/*#end-keys-my*/
 
 	/*#end-my*/
