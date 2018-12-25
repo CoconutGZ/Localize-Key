@@ -19,7 +19,7 @@ Download the installation package(`Localize Key.dmg`) in the project and install
 
 product
 ----------------------
-swift项目：
+swift project. Example：
 ``` swift
 /**#LocalizeKey*/
 enum LocalizeKey: String {
@@ -65,3 +65,34 @@ enum LocalizeKey: String {
 }
 
 ```
+
+Objective-C project. Example：
+``` Objective-C
+
+/*#Localize-swift*/
+	static NSString * const LocalizeKey_buttonTitle = @"buttonTitle";
+	static NSString * const LocalizeKey_toolbarTitle1 = @"toolbarTitle1";
+	//static NSString * const LocalizeKey_toolbarTitle2 = @"toolbarTitle2";
+	//static NSString * const LocalizeKey_toolbarTitle3 = @"toolbarTitle3";
+	static NSString * const LocalizeKey_toolbarTitle4 = @"toolbarTitle4";
+	static NSString * const LocalizeKey_haha = @"haha";
+	/// 分享按钮的文案
+	static NSString * const LocalizeKey_shareButtonTitle = @"shareButtonTitle";
+/*#end-Localize*/
+
+
+/*#subset-home*/
+	static NSString * const LocalizeKey_home_title = @"home_title";
+	static NSString * const LocalizeKey_home_titleLabel = @"home_titleLabel";
+	static NSString * const LocalizeKey_home_wow = @"home_wow";
+/*#end-home*/
+
+
+/*#subset-my*/
+	//static NSString * const LocalizeKey_my_button = @"my_button";
+	//static NSString * const LocalizeKey_my_button3 = @"my_button3";
+	static NSString * const LocalizeKey_my_titleLabel = @"my_titleLabel";
+/*#end-my*/
+
+```
+
