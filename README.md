@@ -5,3 +5,10 @@ A convenient tool for editing local keys in iOS development
 https://www.jianshu.com/p/087260ea13a0
 
 ![img](https://github.com/CoconutGZ/Localize-Key/blob/master/20181224-164023.png)
+
+
+
+Function introduction
+-------------------
+- checkout：
+- insert:
