@@ -11,4 +11,8 @@ https://www.jianshu.com/p/087260ea13a0
 Function introduction
 -------------------
 - **checkout**: Powerful synchronization function, export. h file or. swift file from. strings file.
-- **insert**: Add a new key to. string file and output file
+- **insert**: Add a new key to. string file and output file.
+
+Installation
+--------------------
+Download the installation package(`Localize Key.dmg`) in the project and install it on the computer.
