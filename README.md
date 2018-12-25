@@ -15,7 +15,7 @@ Function introduction
 
 Installation
 --------------------
-Download the installation package(`**Localize Key.dmg**`) in the project and install it on the computer.
+Download the installation package(**`Localize Key.dmg`**) in the project and install it on the computer.
 
 product
 ----------------------
